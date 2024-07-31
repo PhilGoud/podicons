@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="1.414"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="telegram.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1339"
+     inkscape:window-height="859"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="15.75"
+     inkscape:cx="2.1562426"
+     inkscape:cy="9.1053893"
+     inkscape:window-x="555"
+     inkscape:window-y="557"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="#2CA5E0"
+     d="M 11.141702,11.091433 C 11.618186,9.7873726 13.365292,4.8302716 13.644495,3.5312271 13.96215,2.0599795 13.298417,1.9178704 11.788717,2.4110727 10.279852,2.904275 6.4094686,4.3379054 5.7574384,4.5694596 5.1054083,4.801014 1.9347029,5.8668325 1.276821,6.1844881 -0.06569233,6.905065 0.58717375,8.004321 2.0876792,8.5752652 c 4.4889766,2.1542068 3.214174,1.0566232 5.2179128,5.0423658 0.4121167,1.01817 1.3843102,2.752738 2.3155431,1.441154 0.4898589,-0.745655 1.1452319,-2.942495 1.5214029,-3.968188 z"
+     fill-rule="nonzero"
+     id="path2"
+     style="fill:#ffffff;stroke-width:0.835934" />
+</svg>
